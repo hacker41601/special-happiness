@@ -1,0 +1,47 @@
+/home/mki273/CS216/Lab1
+total 4
+-rw-rw-r-- 1 mki273 mki273 24 Aug 28 13:09 file1
+ ______________________________________
+< Hello, Orion Fisher. I am Nich Kiem. >
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+    1  man
+    2  Is -1
+    3  Is -l
+    4  cd ~
+    5  whoami
+    6  mkdir CS216
+    7  cd CS216
+    8  mkdir Lab1
+    9  cd Lab1
+   10  ls
+   11  ls command
+   12  pwd command
+   13  pwd > file1
+   14  $ pwd > file1
+   15  cat file1
+   16  pwd command
+   17  pwd > file1
+   18  cat file1
+   19  ls -l
+   20  ls -l >> file1
+   21  LS
+   22  cowsay "Hello, Orion Fisher. I am Nich Kiem." >> file1
+   23  cat file1
+   24  echo shell
+   25  echo $shell
+   26  echo $SHELL
+   27  man ls
+   28  history > file2
+                                                                             
+ mmmmmm           "                          mmm   mmmm   mmmm  mmm      mmm 
+ #      m mm    mmm    mmm   m   m         m"   " #"   " "   "#   #    m"   "
+ #mmmmm #"  #     #   #" "#  "m m"         #      "#mmm      m"   #    #m""#m
+ #      #   #     #   #   #   #m#          #          "#   m"     #    #    #
+ #mmmmm #   #     #   "#m#"   "#            "mmm" "mmm#" m#mmmm mm#mm   #mm#"
+                  #           m"                                             
+                ""           ""                                              
